@@ -1,0 +1,102 @@
+body {
+  background-image: url("Achtergrond.jpg");
+}
+
+.flex-container > div {
+  padding: 20px;
+  margin: 5px;
+  font-family: 'PT Sans Narrow', sans-serif;
+}
+
+.Box-1 {
+  flex-direction: column;
+  flex:2;
+  background-color:   #ffffff;
+  box-shadow: 2px 2px 5px grey;
+}
+
+.Box-2 {
+  flex: 4;
+  background-color:  #ffffff;
+  box-shadow: 2px 2px 5px grey;
+}
+
+.Box-3 {
+  flex: 4;
+  background-color: #ffffff;
+  box-shadow: 2px 2px 5px grey;
+}
+
+.flex-container {
+  display:flex;
+}
+
+.Box-4 {
+  flex-direction: column;
+  flex: 4;
+  background-color:  #ffffff;
+  box-shadow: 2px 2px 5px grey;
+}
+.Box-5 {
+  flex-direction: column;
+  flex: 2;
+  background-color: #ffffff;
+  box-shadow: 2px 2px 5px grey;
+}
+
+.Box-6 {
+  flex-direction: column;
+  flex: 3;
+  background-color: #ffffff;
+  box-shadow: 2px 2px 5px grey;
+}
+
+.Box-7 {
+  flex-direction: column;
+  flex: 3;
+  background-color: #ffffff;
+  box-shadow: 2px 2px 5px grey;
+}
+.Box-8 {
+  flex-direction: column;
+  flex: 3;
+  background-color: #ffffff;
+  box-shadow: 2px 2px 5px grey;
+}
+
+.Box-9 {
+  flex-direction: column;
+  flex: 3;
+  background-color: #ffffff;
+  box-shadow: 2px 2px 5px grey;
+}
+
+.Box-10 {
+  flex-direction: column;
+  flex: 5;
+  background-color: #ffffff;
+  box-shadow: 2px 2px 5px grey;
+}
+
+.Merel {
+  height: 267px;
+  width: 100%;
+  padding: 0;
+}
+
+.studie, .weetje {
+  width: 5%;
+}
+
+
+.taal, .pc, .student, .stage {
+  width: 10%;
+}
+
+.extra {
+  width: 7%;
+}
+
+.job {
+  width: 8%;
+}
