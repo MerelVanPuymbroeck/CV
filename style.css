@@ -113,6 +113,6 @@ body {
   }
 }
 
-.flex-container:hover .Box-1 {
+.Box-1:hover {
   transform: scale(1.01);
 }
