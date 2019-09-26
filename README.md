@@ -7,6 +7,7 @@ https://merelvanpuymbroeck.github.io/CV/.
 - [x] Structuring lay-outs
 
 ### Conclusion 
-Just a nice online CV with the HTML and CSS tools and a grid 
+Just a nice online CV where I made use of flexbox containers
+![](kis.gif)
 
 
